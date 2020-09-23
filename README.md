@@ -1,4 +1,4 @@
-# BurningManProject
+# BurningMan Project
 
 Figma to HTML: Code Up a Single-Page Design
 
